@@ -1,0 +1,4 @@
+{
+    "apiURL": "https://api.openweathermap.org/data/2.5/forecast/daily?q=Mississauga&units=metric&cnt=5&appid=60aac539f34e74546cd399cd1f143fd7",
+    "imageURL": "https://openweathermap.org/img/wn/"
+}
